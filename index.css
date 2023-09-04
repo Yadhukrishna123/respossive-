@@ -1,0 +1,123 @@
+.d_flex{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+     width: 100%;
+     padding-bottom: 10px;
+}
+.d_style{
+    list-style: none;
+    display: inline;
+     padding-right: 15px;
+}
+.d_background_color{
+    list-style: none;
+    display: inline;
+     padding-right: 15px;
+}
+
+.a1{
+    color: rgb(247, 246, 246);
+}
+
+.acolor{
+    color: gray; text-decoration: none;
+}
+
+
+.second_row{
+    border-color: rgb(10, 10, 10);
+}
+.display_style{
+    display: flex;
+}
+.span_style{
+    display: flex;
+}
+.icon_padding{
+    padding-left: 10px;
+}
+.input_style{
+    border-radius: 30px;
+     background-color: rgb(228, 225, 225);
+      outline:none;
+      border: solid 1px gray;
+      padding-right: 15px;
+     margin-right: 25px;
+}
+.circle_icon{
+    padding-right: 25px;
+}
+.bag_icon{
+    padding-right: 25px;
+}
+.pocision_relative{
+    position: relative;
+}
+.pocision_absalute{
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
+.color1{
+    color:white;
+}
+.color2{
+    color: rgb(221, 220, 219);
+}
+.color3{
+    color: gray;
+}
+.learn_more_style{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+     padding: 10px 12px;
+     border-radius: 35px;
+     font-size: 15px;
+     font-weight: bold;left: 10px;
+}
+.justyfy_content{
+    display: flex; 
+    justify-content: space-between;
+    top: 20px;
+}
+.h2{
+    color: brown;
+}
+.second_div{
+    padding: 25px 25px; 
+    position: relative;
+}
+.third_image{
+    width: 100%;
+     height: 300px;
+     padding: 25px 20px;
+}
+.h_style{
+    position: absolute;
+     top: 70px;
+     left: 80px;
+}
+.fourth_div{
+    position: absolute;
+    background-color: rgb(162, 245, 162); 
+    bottom: 80px;
+     left: 60px;
+     border-radius:5px;
+}
+.offer_image{
+    height: 250px;padding-left: 10px
+}
+.offer_image_div{
+    justify-content: space-between; display: flex; padding: 20px 20px;  
+}
+.lastdiv{
+    list-style: none;
+    display: inline; 
+    padding: 50px;
+     bottom: 20px;
+    color: white; 
+    font-size: 15px;
+    
+}
